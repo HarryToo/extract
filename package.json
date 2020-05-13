@@ -1,0 +1,11 @@
+{
+  "name": "code_extract",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Duhang",
+  "license": "ISC"
+}
